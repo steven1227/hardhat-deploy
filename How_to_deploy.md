@@ -19,7 +19,7 @@ npx hardhat
 
 Here in this article, we are going to create an empty project which let you learn how to use Hardhat from scratch. You can also try to use example project which includes some example tasks and files.
 
-![Hardhat](img1.png)
+<img src="img1.png" alt="Kitten" width="450"  />
 
 In addition to the `hardhat` dependency, we will use some other useful tools which will be explained later. Now you can install them with
 
